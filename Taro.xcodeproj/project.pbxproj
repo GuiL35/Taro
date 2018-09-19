@@ -7,7 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		3B54BB262151E9A700A87D3E /* LaunchPic-taro.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 3B54BB242151E9A600A87D3E /* LaunchPic-taro.jpeg */; };
 		3B54BB272151E9A700A87D3E /* blueTotoro.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 3B54BB252151E9A600A87D3E /* blueTotoro.jpeg */; };
 		3B54BB29215210B200A87D3E /* Board.png in Resources */ = {isa = PBXBuildFile; fileRef = 3B54BB28215210B200A87D3E /* Board.png */; };
 		3BA812F82151B270006B6CDC /* Totoro.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 3BA812F72151B270006B6CDC /* Totoro.jpeg */; };
@@ -22,7 +21,6 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		3B54BB242151E9A600A87D3E /* LaunchPic-taro.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "LaunchPic-taro.jpeg"; sourceTree = "<group>"; };
 		3B54BB252151E9A600A87D3E /* blueTotoro.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = blueTotoro.jpeg; sourceTree = "<group>"; };
 		3B54BB28215210B200A87D3E /* Board.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Board.png; sourceTree = "<group>"; };
 		3BA812F72151B270006B6CDC /* Totoro.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Totoro.jpeg; sourceTree = "<group>"; };
@@ -71,7 +69,6 @@
 			children = (
 				3B54BB28215210B200A87D3E /* Board.png */,
 				3B54BB252151E9A600A87D3E /* blueTotoro.jpeg */,
-				3B54BB242151E9A600A87D3E /* LaunchPic-taro.jpeg */,
 				3BA812F72151B270006B6CDC /* Totoro.jpeg */,
 				3BEC2F411FB5047A006617E7 /* AppDelegate.swift */,
 				3BEC2F431FB5047A006617E7 /* ViewController.swift */,
@@ -145,7 +142,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				3B54BB29215210B200A87D3E /* Board.png in Resources */,
-				3B54BB262151E9A700A87D3E /* LaunchPic-taro.jpeg in Resources */,
 				3BEC2F5A1FB557D2006617E7 /* sound.wav in Resources */,
 				3BE2CDB11FB572D000FF439D /* winSound.mp3 in Resources */,
 				3B54BB272151E9A700A87D3E /* blueTotoro.jpeg in Resources */,

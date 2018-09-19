@@ -2,11 +2,11 @@
   "images" : [
     {
       "idiom" : "universal",
+      "filename" : "LaunchPic-taro.jpeg",
       "scale" : "1x"
     },
     {
       "idiom" : "universal",
-      "filename" : "龙猫.jpeg",
       "scale" : "2x"
     },
     {
